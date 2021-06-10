@@ -1,3 +1,6 @@
+<!-- Name -->
+<h1>Hello! I am <a href="https://discord.gg/WsuBGwNm5s">NauGht</a></h1> 
+
 <!-- Banner -->
 <img src="https://media.discordapp.net/attachments/719938828441354352/852390353301930005/On_The_Comp.png?width=1216&height=657">
 
