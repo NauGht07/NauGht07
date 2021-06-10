@@ -1,6 +1,7 @@
-<--Banner-->
+<!-- Banner -->
 <img src="https://media.discordapp.net/attachments/719938828441354352/852390353301930005/On_The_Comp.png?width=1216&height=657">
 
+<!-- Description -->
 - 👋 Hi, I’m @NauGht07
 - 👀 I’m interested in software-development related stuff
 - 🌱 I’m currently learning web-development with asp.net
