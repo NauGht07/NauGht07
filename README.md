@@ -16,12 +16,12 @@
 </h3>
 
 <h1>Languages And Tools I Use<h1>
-<img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png">
-<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
-<img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
-<img src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png">
+<img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" style="width: 64px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" style="width: 64px">
+<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" style="width: 64px">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" style="width: 64px">
+<img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" style="width: 64px">
+<img src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" style="width: 64px">
 <img src="">
 <!---
 NauGht07/NauGht07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
